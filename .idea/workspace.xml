@@ -2,66 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6d63e03-e9a5-4058-a293-8c75fd3cfd83" name="Changes" comment="commits">
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Projects/Project Scripts/Application for Scripts.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Projects/Project Scripts/Combine 2 csv to 1(Combo).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Projects/Project Scripts/Reading and writing with python.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Projects/Project Scripts/Test1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Projects/Project Scripts/Test2.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Projects/Project Scripts/combo_for Reference.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Projects/Project Webdev/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Projects/Project Webdev/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Projects/Project Webdev/.idea/Prject Webdev.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Projects/Project Webdev/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Projects/Project Webdev/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Projects/Project Webdev/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Projects/Project Webdev/Page 1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Projects/Project Webdev/Test_Package/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Projects/Project Webdev/Test_Package/database_Test_Package.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Projects/Project Webdev/Test_Package/url_Test_Package.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Projects/Project Webdev/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Python Practice/Application for Scripts.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Python Practice/Calc.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Python Practice/Combobox.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Python Practice/Containers(Groupbox).ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Python Practice/Data Visualisation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Python Practice/Dice roll.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Python Practice/FileHandling.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Python Practice/FilehandlingTest.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Python Practice/Menubar.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Python Practice/Menubar.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Python Practice/Messages_popups.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Python Practice/Numpy Prac/Numpy intro.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Python Practice/PyQt5 basics.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Python Practice/RPS_BacicS.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Python Practice/R_P_S.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Python Practice/R_P_S.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Python Practice/Rock_Paper_Scissors.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Python Practice/calc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Python Practice/combobox.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Python Practice/data types.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Python Practice/div by 3 and 5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Python Practice/pyqt5_101.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Python Practice/qtd_basics.ui" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Python Practice/t2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Python Practice/testbutton.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Script Inventory/.idea/Script Inventory.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Script Inventory/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Script Inventory/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Script Inventory/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Script Inventory/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Script Inventory/AdvancedSplitter.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Script Inventory/Basic_File_Combo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Script Inventory/Basic_File_Splitter.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Script Inventory/CR_LF_Replacer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Script Inventory/CSV_to_Tab.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Script Inventory/CSV_to_XLS.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Script Inventory/Delimiter_Converter.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Script Inventory/Record_Extraction.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Script Inventory/XLS_to_CSV.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BS-Work-Repo-main/Script Inventory/jobfinder.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,10 +18,14 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/venv/stocks_gui.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/venv/controller.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/venv/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/venv/model.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/venv/stocks_gui.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/venv/view_tk.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -94,7 +40,8 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Mihir/Study/Projects/GitHub/Web_Scraper_Stocks&quot;
+    &quot;last_opened_file_path&quot;: &quot;D:/Mihir/Study/Projects/GitHub/Web_Scraper_Stocks&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -102,7 +49,28 @@
       <recent name="D:\Mihir\Study\Projects\GitHub\Web_Scraper_Stocks\" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.stocks_gui (1)">
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Web_Scraper_Stocks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Web_Scraper_Stocks" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -166,8 +134,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="view_tk" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Web_Scraper_Stocks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/view_tk.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.view_tk" />
         <item itemvalue="Python.stocks_gui (1)" />
         <item itemvalue="Python.stocks_gui" />
       </list>
